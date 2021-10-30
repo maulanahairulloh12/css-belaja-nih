@@ -1,2 +1,2 @@
-# css-belaja-nih
+# css-belajar-nih
 belajar-css
